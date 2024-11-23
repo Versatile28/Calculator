@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
@@ -21,10 +20,7 @@ This webpage displays a basic Calculator designed using HTML and CSS. It feature
 
 ### Links
 
-- Solution URL: (https://github.com/Versatile28/blog-preview-card)
-- Live Site URL: (https://versatile28.github.io/blog-preview-card/)
-
-## My process
+- Live Site URL: [Live](https://versatile28.github.io/Calculator/)
 
 ### Built with
 
